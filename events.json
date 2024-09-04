@@ -1,0 +1,52 @@
+{
+    "events": [
+        {
+            "name": "Music Concert",
+            "description": "Join us for an unforgettable night of live music!",
+            "amount": 50,
+            "logo": {
+                "url": "music.jpg"
+            }
+        },
+        {
+            "name": "Art Exhibition",
+            "description": "Explore the latest art from local and international artists.",
+            "amount": 30,
+            "logo": {
+                "url": "art.jpg"
+            }
+        },
+        {
+            "name": "Food Festival",
+            "description": "Taste the best dishes from around the world.",
+            "amount": 20,
+            "logo": {
+                "url": "food.jpg"
+            }
+        },
+        {
+            "name": "Tech Conference",
+            "description": "Stay ahead of the curve with insights from tech leaders.",
+            "amount": 100,
+            "logo": {
+                "url": "tech.jpg"
+            }
+        },
+        {
+            "name": "Charity Run",
+            "description": "Run for a cause and support local charities.",
+            "amount": 10,
+            "logo": {
+                "url": "charity.jpg"
+            }
+        },
+        {
+            "name": "Comedy Night",
+            "description": "Laugh out loud with top comedians.",
+            "amount": 40,
+            "logo": {
+                "url": "comedy.jpg"
+            }
+        }
+    ]
+}
